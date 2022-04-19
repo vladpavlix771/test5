@@ -1,4 +1,4 @@
-bot_token = '5292289867:AAE3tt0Z1PGGrRpYvgYaJa6o--bGAjo6Fvo'  # Токен бота Telegram
+bot_token = '5291233902:AAEeoDrQ-duFndhQX6-8vnx7xk9K3ZUC3_k'  # Токен бота Telegram
 CHANNEL_ID = 1392997505 # id канала, куда будет отсылаться информация, id без -100 в начале (например: 124873248) (узнать его можно в @getmyid_bot)
 
 admin_id_1 = 1370967532 # id первого администратора
